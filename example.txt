@@ -1,1 +1,2 @@
 This is line 1 from example.txt created at GitHub.
+Modify 1
